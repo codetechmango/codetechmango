@@ -11,7 +11,7 @@ Building scalable full-stack web platforms, cloud architectures, and secure syst
 <a href="mailto:kiran18.ganesh@gmail.com">
   <img src="https://img.shields.io/badge/Email-kiran18.ganesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/saikiran1818/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="YOUR_PORTFOLIO_URL">
