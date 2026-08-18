@@ -29,7 +29,7 @@ Building scalable full-stack web platforms, cloud architectures, and secure syst
 I am a Software Engineering student focused on building secure, high-performance applications and cloud architectures. My work spans full-stack web and mobile development, cloud-deployed APIs, system design, and integrating applied AI/ML.
 
 - 🎓 **Education:** Integrated M.Tech in Software Engineering at VIT Chennai (CGPA: 9.08)
-- ⚡ **Focus Areas:** Full-Stack Development, Cloud Systems, Web Security, System Design
+- ⚡ **Focus Areas:** Full-Stack Development, AI, Cloud Systems, Web Security, System Design
 
 <br />
 
