@@ -1,8 +1,8 @@
+
 <div align="center">
-
-# G Sai Kiran
-
-**Integrated M.Tech Software Engineering Student @ VIT Chennai**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=G%20Sai%20Kiran&fontSize=60&fontColor=fff&animation=fadeIn" width="100%" />
+  
+  <h3>Integrated M.Tech Software Engineering Student @ VIT Chennai</h3>
 
 Building scalable full-stack web platforms, cloud architectures, and secure systems.
 
