@@ -2,9 +2,9 @@
 
 # G Sai Kiran
 
-**Integrated M.Tech Software Engineering Student @ VIT Chennai**[cite: 1]
+**Integrated M.Tech Software Engineering Student @ VIT Chennai**
 
-Building scalable full-stack web platforms, cloud architectures, and secure systems[cite: 1].
+Building scalable full-stack web platforms, cloud architectures, and secure systems.
 
 <br />
 
@@ -26,10 +26,10 @@ Building scalable full-stack web platforms, cloud architectures, and secure syst
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering student focused on building secure, high-performance applications and cloud architectures[cite: 1]. My work spans full-stack web and mobile development, cloud-deployed APIs, system design, and integrating applied AI/ML[cite: 1].
+I am a Software Engineering student focused on building secure, high-performance applications and cloud architectures. My work spans full-stack web and mobile development, cloud-deployed APIs, system design, and integrating applied AI/ML.
 
-- 🎓 **Education:** Integrated M.Tech in Software Engineering at VIT Chennai (CGPA: 9.08)[cite: 1]
-- ⚡ **Focus Areas:** Full-Stack Development, Cloud Systems, Web Security, System Design[cite: 1]
+- 🎓 **Education:** Integrated M.Tech in Software Engineering at VIT Chennai (CGPA: 9.08)
+- ⚡ **Focus Areas:** Full-Stack Development, Cloud Systems, Web Security, System Design
 
 <br />
 
@@ -78,18 +78,18 @@ I am a Software Engineering student focused on building secure, high-performance
   <tr>
     <td width="33%">
       <h3 align="center"><b>⚡ VoltPulse</b></h3>
-      <p>Full-stack electricity monitoring platform supporting real-time telemetry, energy analytics, and automated anomaly detection[cite: 1].</p>
-      <p><b>Tech:</b> Next.js, FastAPI, PostgreSQL, Tailwind CSS[cite: 1]</p>
+      <p>Full-stack electricity monitoring platform supporting real-time telemetry, energy analytics, and automated anomaly detection.</p>
+      <p><b>Tech:</b> Next.js, FastAPI, PostgreSQL, Tailwind CSS</p>
     </td>
     <td width="33%">
       <h3 align="center"><b>🐕 Breed Predictor</b></h3>
-      <p>Cross-platform mobile app leveraging on-device TensorFlow models and cloud infrastructure for instant breed prediction[cite: 1].</p>
-      <p><b>Tech:</b> Flutter, TensorFlow, Supabase[cite: 1]</p>
+      <p>Cross-platform mobile app leveraging on-device TensorFlow models and cloud infrastructure for instant breed prediction.</p>
+      <p><b>Tech:</b> Flutter, TensorFlow, Supabase</p>
     </td>
     <td width="33%">
       <h3 align="center"><b>🏠 PGConnect</b></h3>
-      <p>Accommodation discovery platform built with dynamic filtering, optimized relational schemas, and secure session management[cite: 1].</p>
-      <p><b>Tech:</b> PHP, MySQL, Bootstrap, JavaScript[cite: 1]</p>
+      <p>Accommodation discovery platform built with dynamic filtering, optimized relational schemas, and secure session management.</p>
+      <p><b>Tech:</b> PHP, MySQL, Bootstrap, JavaScript</p>
     </td>
   </tr>
 </table>
