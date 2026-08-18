@@ -14,7 +14,7 @@ Building scalable full-stack web platforms, cloud architectures, and secure syst
 <a href="https://www.linkedin.com/in/saikiran1818/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://my-portfolio-six-pied-64.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-10B981?style=for-the-badge&logo=globe&logoColor=white" />
 </a>
 
