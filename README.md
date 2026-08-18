@@ -72,24 +72,3 @@ I am a Software Engineering student focused on building secure, high-performance
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center"><b>⚡ VoltPulse</b></h3>
-      <p>Full-stack electricity monitoring platform supporting real-time telemetry, energy analytics, and automated anomaly detection.</p>
-      <p><b>Tech:</b> Next.js, FastAPI, PostgreSQL, Tailwind CSS</p>
-    </td>
-    <td width="33%">
-      <h3 align="center"><b>🐕 Breed Predictor</b></h3>
-      <p>Cross-platform mobile app leveraging on-device TensorFlow models and cloud infrastructure for instant breed prediction.</p>
-      <p><b>Tech:</b> Flutter, TensorFlow, Supabase</p>
-    </td>
-    <td width="33%">
-      <h3 align="center"><b>🏠 PGConnect</b></h3>
-      <p>Accommodation discovery platform built with dynamic filtering, optimized relational schemas, and secure session management.</p>
-      <p><b>Tech:</b> PHP, MySQL, Bootstrap, JavaScript</p>
-    </td>
-  </tr>
-</table>
